@@ -7,4 +7,4 @@ HTML studies
 
 - .html
 
-<a href="mini">Kattints ide!</a>
+<a href="mini" target="_blank">Kattints ide!</a>
