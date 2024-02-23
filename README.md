@@ -7,4 +7,4 @@ HTML studies
 
 - .html
 
-<a href="mini">teszt link</a>
+<a href="mini">Kattints ide!</a>
