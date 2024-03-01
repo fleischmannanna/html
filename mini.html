@@ -59,13 +59,37 @@
 		<footer>Footer akjsa jsa ksjak skaj skajks ak sjkaj sjaksj a jsj ak jskajsk jaks ja sk sk aks jak sk ak ska </footer>
 
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Idő mutató óra</title>
-  <link rel="stylesheet" href="styles.css">
- <div class="clock">
+<div class="clock">
     <div class="time" id="time"></div>
   </div>
-  <script src="script.js"></script>		
+  <style>
+    .clock {
+      font-family: Arial, sans-serif;
+      font-size: 24px;
+      text-align: center;
+      margin-top: 100px;
+    }
+
+    .time {
+      font-weight: bold;
+    }
+  </style>
+  <script>
+    function updateTime() {
+      const now = new Date();
+      const hours = String(now.getHours()).padStart(2, '0');
+      const minutes = String(now.getMinutes()).padStart(2, '0');
+      const seconds = String(now.getSeconds()).padStart(2, '0');
+      const timeString = `${hours}:${minutes}:${seconds}`;
+      document.getElementById('time').textContent = timeString;
+    }
+
+    // Frissíti az időt minden másodpercben
+    setInterval(updateTime, 1000);
+
+    // Kezdeti idő frissítés
+    updateTime();
+  </script>	
 
 		
 	</body>
