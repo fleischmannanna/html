@@ -36,6 +36,25 @@
 		<hr>
 		<img width="100%" src="images/annaerik.jpeg" />
 		<hr>
+
+<script>
+
+	function pad( num ) {
+  		return String( "0" + num ).slice( -2 );
+	}
+
+	function updateClock() {
+  		var now = new Date();
+  		var time = pad( now.getHours() ) + ':' + pad( now.getMinutes() ) + ":" + pad( now.getSeconds() );
+  		document.getElementById( 'current_time' ).innerHTML = time;
+	}
+	
+	window.onload = function() {
+  		setInterval( updateClock, 500 ); // use a shorter interval for better update
+	}
+</script>
+
+		<p id="current_time"></p>
 		
 		<footer>Footer akjsa jsa ksjak skaj skajks ak sjkaj sjaksj a jsj ak jskajsk jaks ja sk sk aks jak sk ak ska </footer>
 	  	
