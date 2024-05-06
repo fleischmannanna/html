@@ -1,38 +1,37 @@
 **Fleischmann Anna**
+
 +36 20 414 9448 
+
 anna@fleischmann.hu
+
 1185 Budapest Ungvár u. 33.
 
 # MUNKATAPASZTALAT
 
-## Eladó-pénztáros (diákmunka)
-## Hennes and Mauritz Kft. – Budapest, Ferihegy Market Central
+## Eladó-pénztáros (diákmunka)‹br›Hennes and Mauritz Kft. – Budapest, Ferihegy Market Central
 2021/07 – 2023/07
 
 Általános bolti eladói feladatok: pénztárgép használat, vevői tanácsadás, leltározás, raktári feladatok, árurendezés, vásárlói kedvezmények és akciók népszerűsítése. Munkámat kiemelkedő színvonalon végeztem, a vezetőm a 2 év alatt többször is szóbeli dicséretben részesített és szívesen viszontlát az üzletben a jövőben is, mint dolgozót.
 
-## Kommunikációs koordinátor gyakornok 
-## Magyar Környezettudatos Építés Egyesülete – HuGBC
+## Kommunikációs koordinátor gyakornok‹br›Magyar Környezettudatos Építés Egyesülete – HuGBC
 2023/06 – 2024/03 
 
 Általános kommunikációs és marketing feladatok. Social média posztok, weboldal hírek készítése és ezen felületek kezelése. Rendezvényekkel kapcsolatos kommunikációs kampányok segítése és koordinálása.
 
-## Junior kommunikációs manager
-## Magyar Környezettudatos Építés Egyesülete – HuGBC 
+## Junior kommunikációs manager‹br›Magyar Környezettudatos Építés Egyesülete – HuGBC 
 2024/04 -
 
 10 hónap után előléptetésben részesültem a Magyar Környezettudatos Építés Egyesületénél.
 
 # KÉPZETTSÉG
 
-## Budapesti Gazdasági Egyetem Külkereskedelmi Kar, Budapest 
-## Kereskedelem és Marketing szak, alapképzés
+## Budapesti Gazdasági Egyetem Külkereskedelmi Kar, Budapest‹br›Kereskedelem és Marketing szak, alapképzés
 2020/09 – 2024/01
 
 Az egyetemen tanulmányaimat 2020. szeptemberben kezdtem és 2024. januárban fejeztem be jeles diplomával. Tanulmányi átlagom mindvégig 4,5 felett volt.
  
 ## Sztehlo Gábor Evangélikus Gimnázium, Budapest
-## Angol tagozatos osztály
+Angol tagozatos osztály
 2016/09 - 2020/06
 
 4 éven át 4,5 feletti tanulmányi átlag, sikeres érettségi bizonyítvány. 
