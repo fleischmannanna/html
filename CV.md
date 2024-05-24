@@ -1,5 +1,5 @@
 # Fleischmann Anna
-![Anna kép](images/Anna.jpeg){: style="float: right; height: 150px;"}
+![Anna kép](images/Anna.jpeg){: style="float: right; height: 175px;"}
 +36 20 414 9448 
 
 anna@fleischmann.hu
