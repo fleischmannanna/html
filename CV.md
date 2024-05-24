@@ -18,7 +18,7 @@ anna@fleischmann.hu
 
 Általános kommunikációs és marketing feladatok. Social média posztok, weboldal hírek készítése és ezen felületek kezelése. Rendezvényekkel kapcsolatos kommunikációs kampányok segítése és koordinálása.
 
-## Junior kommunikációs manager‹br/›Magyar Környezettudatos Építés Egyesülete – HuGBC 
+## Junior kommunikációs manager<br>Magyar Környezettudatos Építés Egyesülete – HuGBC 
 2024/04 -
 
 10 hónap után előléptetésben részesültem a Magyar Környezettudatos Építés Egyesületénél.
