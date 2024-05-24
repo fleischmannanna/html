@@ -1,3 +1,8 @@
+---
+title:    "CV"
+author:   "Fleischmann Anna"
+---
+
 # Fleischmann Anna
 ![Anna kép](images/Anna.jpeg){: style="float: right; height: 165px;"}
 +36 20 414 9448 
